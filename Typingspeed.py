@@ -59,7 +59,7 @@ root= Tk()
 root.geometry('800x600+400+100')
 root.configure(bg='black')
 root.title('Typing Speed Increaser')
-root.iconbitmap('typing speed image.ico')
+# root.iconbitmap('typing speed image.ico')
 
 ##############################################      variables
 
